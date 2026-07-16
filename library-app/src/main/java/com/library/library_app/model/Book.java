@@ -1,4 +1,4 @@
-package com.library.library_app;
+package com.library.library_app.model;
 
 public class Book {
 
